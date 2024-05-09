@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "indah",
+      "email": "user1",
+      "password": "nnn"
+    },
+    {
+      "id": 2,
+      "name": "indah",
+      "email": "user2",
+      "password": "nnn"
+    },
+    {
+      "id": 3,
+      "name": "indah",
+      "email": "user3",
+      "password": "nnn"
+    },
+    {
+      "id": "609a",
+      "name": "indah Budiati",
+      "email": "indah@gmail.com",
+      "password": "1111222233"
+    },
+    {
+      "id": "d2b5",
+      "name": "indah Budiati latest",
+      "email": "indah@gmail.com",
+      "password": "1111222233"
+    }
+  ]
+}
